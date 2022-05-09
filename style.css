@@ -1,0 +1,35 @@
+.navbar{
+    font-size: 20px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+span{
+    color: rgb(236, 163, 120);
+}
+
+.jumbotron{
+    padding-top: 10rem;
+    background-color: #ddaa8f;
+}
+
+#about{
+    padding-top: 5rem;
+    background-color: #dfd0c8;
+}
+
+#edu{
+    padding-top: 5rem;
+    background-color: #ddaa8f;
+}
+
+#certif{
+    padding-top: 5rem;
+    background-color: #dfd0c8;
+}
+
+#contact{
+    padding-top: 5rem;
+    background-color: #ddaa8f;
+}
+
